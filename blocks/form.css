@@ -1,0 +1,16 @@
+.form {
+  margin: auto;
+  max-width: 385px;
+}
+
+.form__item {
+max-width: 385px;
+max-height: 60px;
+margin-bottom: 32px;
+border-radius: 4px;
+padding: 15px 20px;
+}
+
+.form__item-checkbox {
+  margin-bottom: 0;
+}
